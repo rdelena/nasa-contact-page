@@ -1,4 +1,29 @@
 img {
   width: 850px;
-  height: 450px;  
+  height: 450px;
+  margin: 10px;  
+}
+
+.flexbox-container{
+display: flex;
+width: 850px;
+margin: 10px;
+
+}
+
+.flexbox-item {
+    width: 270px;
+    margin: 0px;
+    border: 20px;
+    background-color: gainsboro;
+}
+.flexbox-item-1 { 
+min-height: 324px;
+
+}
+.flexbox-item-2 {
+min-height: 324px;   
+}
+.flexbox-item-3 {
+min-height: 324px;   
 }
