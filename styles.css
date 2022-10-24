@@ -3,7 +3,13 @@ img {
   height: 450px;
   margin: 10px;  
 }
-
+.nasa-text{
+  position: absolute;
+  top: 12%;
+  color: #fff;
+  font-size: 50px;
+  margin-left: 290px;
+}
 .flexbox-container{
 display: flex;
 width: 850px;
